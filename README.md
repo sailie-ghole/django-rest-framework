@@ -1,2 +1,2 @@
 # django-rest-framework
-Django-rest-framEwork: Serializers and CRUD
+Django-rest-framework: Serializers and CRUD
